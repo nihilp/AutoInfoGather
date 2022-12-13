@@ -1,0 +1,11 @@
+# Ignore all pycache files
+
+Tools/__pycache__/__init__.cpython-310.pyc
+Tools/__pycache__/tools.cpython-310.pyc
+__pycache__/__main__.cpython-310.pyc
+__pycache__/json_to_csv.cpython-310.pyc
+Utilities/__pycache__/__init__.cpython-310.pyc
+Utilities/__pycache__/combine_results.cpython-310.pyc
+Utilities/__pycache__/filter_h8mail.cpython-310.pyc
+Utilities/__pycache__/json_to_csv.cpython-310.pyc
+__pycache__/config.cpython-310.pyc
